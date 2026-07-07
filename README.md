@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer focused on CI/CD, containers, and infrastructure automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+pipelines+that+don't+break+at+3am;Docker+%7C+Kubernetes+%7C+Terraform+%7C+Ansible;Automating+infrastructure%2C+one+playbook+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Building+CI%2FCD+pipelines+that+don't+break+at+3am;Docker+%26+Kubernetes+enthusiast;Infrastructure+as+Code+advocate;Always+learning+%26+automating" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -44,12 +44,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yash9881&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9881&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yash9881&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9881&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9881&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9881&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,7 +66,7 @@
 | [**frontend-mentor-task-2-Landing-page**](https://github.com/yash9881/frontend-mentor-task-2-Landing-page) | Responsive landing page challenge |
 | [**codesoft-task-2-calculator**](https://github.com/yash9881/codesoft-task-2-calculator) | A functional calculator app — logic + UI practice |
 
-> 💡 *Consider pinning 4-6 of your strongest repos (Repositories tab → click the pin icon) so they show above this table on your profile — ideally including any DevOps/infra work (Dockerfiles, Jenkins pipelines, Terraform configs) once you have a couple public.*
+> 💡 *Consider pinning 4-6 of your strongest repos (Repositories tab → click the pin icon) so they show above this table on your profile — ideally including any DevOps/infra work.*
 
 ---
 
